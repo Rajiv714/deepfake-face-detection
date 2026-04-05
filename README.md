@@ -1,7 +1,4 @@
-
-# Deep Learning Assignment 2
-
-Deepfake detection with an EfficientNet-based model. This repo includes a Streamlit app for inference and a training script.
+### Deepfake detection with an EfficientNet-based model. This repo includes a Streamlit app for inference and a training script.
 
 ## Quick Start
 
